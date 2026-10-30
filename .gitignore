@@ -1,2 +1,6 @@
 stream
 results/
+rfm-venv/
+stream/
+runs/
+reframe/__pycache__/
